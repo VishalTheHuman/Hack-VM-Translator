@@ -3,7 +3,7 @@
 
 ## **Description**
 🟡 The **Hack VM Translator** is a software tool used in the Nand2Tetris course to translate high-level code written in the Hack VM language into low-level code written in Hack Assembly language. The translator is responsible for converting the VM code into a series of assembly language instructions that can be executed on the Hack computer platform. The Hack VM Translator in this project is done in python. <br>
-🟢 The virtual machine is stack-based: all operations are done on a stack. It is also function-based: a complete VM program is organized in program units called functions, written in the VM language. Each function has its own stand-alone code and is separately handled. The VM language has a single 16-bitdata type that can be used as an integer, a Boolean, or a pointer. The language consists of four types of commands:<br>
+🟢 The virtual machine is stack-based: all operations are done on a stack. It is also function-based: a complete VM program is organized in program units called functions, written in the VM language. Each function has its own stand-alone code and is separately handled. The VM language has a single 16-bitdata type that can be used as an integer, a Boolean, or a pointer. <br><br>**The language consists of four types of commands:**<br><br>
     🟥   **Arithmetic commands** perform arithmetic and logical operations on the stack.<br>
     🟧	**Memory access commands** transfer data between the stack and virtual memory segments.<br>
     🟨	**Program flow commands** facilitate conditional and unconditional branching operations.<br>
