@@ -9,39 +9,39 @@
     🟨	**Program flow commands** facilitate conditional and unconditional branching operations.<br>
     🟩	**Function** calling commands call functions and return from them.<br>
 ## **Types of Memory Segments 📝**
-    •	Static 
-    •	Local
-    •	Argument
-    •	Constant
-    •	This
-    •	That
-    •	Pointer
-    •	Temp
+    • Static 
+    • Local
+    • Argument
+    • Constant
+    • This
+    • That
+    • Pointer
+    • Temp
 
 ## **Types of Arithmetic/Logical Commands 💬**
-    •	Add
-    •	Sub
-    •	Neg
-    •	Eq
-    •	Gt
-    •	Lt
-    •	And
-    •	Or
-    •	Not
+    • add
+    • sub
+    • neg
+    • eq
+    • gt
+    • lt
+    • and
+    • or
+    • not
 
 ## **Types of Memory Access Commands 📖**
-    •	Pop segment i
-    •	Push segment i
+    • Pop segment i
+    • Push segment i
 
 ## **Types of Branching Commands 🌿**
-    •	label label
-    •	goto label
-    •	if-goto label
+    • label label
+    • goto label
+    • if-goto label
 
 ## **Types of Function Commands 😶‍🌫️**
-    •	function functionName nVars
-    •	call functionName nArgs
-    •	return
+    • function functionName nVars
+    • call functionName nArgs
+    • return
 
 ## **Example**
 ### **StaticTest.vm**
