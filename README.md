@@ -1,5 +1,5 @@
 # **Hack-VM-Translator 💻📟**
-![Hack VM Translator Banner](assets/Hack-VM-Translator.png)
+![Hack-VM-Translator](https://github-production-user-asset-6210df.s3.amazonaws.com/117697246/292635627-15cf6c0b-da90-4431-ba07-02e50d8920c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231223T162647Z&X-Amz-Expires=300&X-Amz-Signature=7317868cd36ba5e256b8b50c886b3448c8c4a14113b18b0b5e2d41990f902259&X-Amz-SignedHeaders=host&actor_id=117697246&key_id=0&repo_id=730075162)
 
 ## **Description**
 🟡 The **Hack VM Translator** is a software tool used in the Nand2Tetris course to translate high-level code written in the Hack VM language into low-level code written in Hack Assembly language. The translator is responsible for converting the VM code into a series of assembly language instructions that can be executed on the Hack computer platform. The Hack VM Translator in this project is done in python. <br>
